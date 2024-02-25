@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kmkoo_photo2.jpg"
+  avatar           : "kmkoo_photo_resized.jpg"
   name             : "Kyoungmo Koo"
   pronouns         : # example: "she/her"  
   bio              : "Be ambitious"
