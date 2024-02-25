@@ -8,3 +8,5 @@ venue: 'Arxiv'
 paperurl:
 citation: 'K.Koo, et al. (2023). &quot;Conceptual Design and Analysis of No-Insulation High- Temperature Superconductor Tubular Wave Energy Converter.&quot; <i>Arxiv</i>.'
 ---
+
+[Paper](http://kyoungmokoo.github.io/files/Paper_1.pdf) [URL](https://arxiv.org/abs/2306.12946)
