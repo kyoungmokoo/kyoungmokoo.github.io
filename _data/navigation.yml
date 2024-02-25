@@ -11,9 +11,9 @@ main:
     
   - title: "Code"
     url: /portfolio/
-        
-  - title: "Extracurricular"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Extracurricular"
+    url: /year-archive/
