@@ -13,6 +13,10 @@ My passion lies at the intersection of embedded systems, digital communication, 
 During my undergraduate tenure, I embarked on research projects in cutting-edge areas such as no-insulation superconductors for power plants, wave energy converters (WEC), and ion propulsion motors.
 Driven by the ambition to enhance global living standards, my ultimate objective is to innovate in the creation of electrical devices that are not only efficient but also conserve time and energy. I'm convinced that advancements in embedded systems and power electronics will be pivotal in shaping the future, making everyday life more sustainable and convenient for communities worldwide.
 
+Developing a digital interface to a ScannerMAX galvanometer controller
+======
+Context
+
 
 Analysis and Experimental Study of LN2 Cooled No-insulation High-Temperature Superconductor Applied Preliminary Magnetohydrodynamic Ship
 ======
