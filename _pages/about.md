@@ -21,7 +21,7 @@ In a groundbreaking endeavor, I have architected a sophisticated digital interfa
 
 The project's complexity was addressed by employing a Future Technology Devices International (FTDI) cable, which was instrumental in converting UART-to-USB and SPI-to-USB. A cornerstone of this project's success was the rigorous calculation and integration of the communication protocols' delays, ensuring that the timing diagram of the embedded system was accurate for each channel. This meticulous attention to detail was crucial for the synchronization and performance of the system. Moreover, the deployment of Direct Memory Access (DMA) facilitated the independent operations of different channels, thereby enhancing the efficiency of the system and reducing the workload on the CPU. The system's agility and smooth operation were further augmented by a series of callback functions, which were strategically sequenced to ensure fluid transitions between communication channels.
 
-This digital interface is not merely a technical accomplishment but a significant advancement in the RAOC T domain, promising to enhance the precision and efficiency of robotically aligned procedures and imaging techniques.
+This digital interface is not merely a technical accomplishment but a significant advancement in the RAOCT domain, promising to enhance the precision and efficiency of robotically aligned procedures and imaging techniques.
 
 
 Analysis and Experimental Study of LN2 Cooled No-insulation High-Temperature Superconductor Applied Preliminary Magnetohydrodynamic Ship
