@@ -8,6 +8,6 @@ venue:
 paperurl: 'http://academicpages.github.io/files/Paper_4.pdf'
 citation: 
 ---
-[Manuscript](http://academicpages.github.io/files/Paper_4.pdf) 
+[Manuscript](http://kyoungmokoo.github.io/files/Paper_4.pdf) 
 
 The aforementioned manuscript is presently being prepared for forthcoming publication.
