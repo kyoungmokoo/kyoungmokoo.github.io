@@ -2,7 +2,7 @@
 title: "SNEK"
 collection: 
 type: "Data Analyst/Marketing Intern"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-4
 venue: SNEK
 date: 2021-04-01
 location: "Seoul, Korea"

@@ -2,7 +2,7 @@
 title: "Nrise"
 collection: 
 type: "Data Analyst/Marketing Intern"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-3
 venue: Nrise
 date: 2021-01-01
 location: "Seoul, Korea"
