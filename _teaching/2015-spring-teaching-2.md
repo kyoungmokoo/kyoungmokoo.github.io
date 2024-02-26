@@ -1,7 +1,7 @@
 ---
 title: "Diveroid"
 collection: 
-type: "Data Analyst Intern"
+type: "Marketing Intern"
 permalink: /teaching/2015-spring-teaching-1
 venue: Diveroid
 date: 2020-10-01
