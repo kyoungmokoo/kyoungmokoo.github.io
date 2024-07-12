@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](../files/Kyoungmo Koo Reesume_20240611.pdf) 
+[CV](../files/CV_20240711.pdf) 
 Last updated : 2024.07.11
