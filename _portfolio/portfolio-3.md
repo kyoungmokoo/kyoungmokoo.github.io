@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 [Link](https://github.com/Kyoungmo-Koo/Error-Analysis)
+
+Codes used for calculating error of the positions of galvanometer
