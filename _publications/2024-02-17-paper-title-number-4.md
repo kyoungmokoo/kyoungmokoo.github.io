@@ -3,7 +3,7 @@ title: "Reducing Cost but not Quality with Digital Scanner Interfaces for Optica
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 
-date: 2024-08-03
+date: "2024-08-03"
 venue: 'SPIE Photonics West 2025 : Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine'
 paperurl: 'http://academicpages.github.io/files/Paper_4.pdf'
 citation: 
