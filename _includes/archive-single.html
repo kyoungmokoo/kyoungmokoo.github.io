@@ -41,7 +41,7 @@
     {% if post.collection == 'teaching' %}
     <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.collection == 'publications' %}
-      {% if post.date == "2024-08-03" %}
+      {% if post.venue == 'SPIE Photonics West 2025 : Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine' %}
       <p>Submitted</p>
       {% else %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
