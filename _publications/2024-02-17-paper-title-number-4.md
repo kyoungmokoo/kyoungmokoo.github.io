@@ -1,5 +1,5 @@
 ---
-title: "Developing a digital interface to a ScannerMAX galvanometer controller"
+title: "Reducing Cost but not Quality with Digital Scanner Interfaces for Optical Coherence Tomography"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 
