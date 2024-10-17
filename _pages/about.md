@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Kyoungmo Koo. I am currently delving into the intricacies of embedded systems and control as a Master's student at the [University of Michigan](https://umich.edu/), specializing in [Electrical and Computer Engineering](https://ece.engin.umich.edu/). My academic journey began at [Seoul National University](https://en.snu.ac.kr/index.html), where I earned my undergraduate degree in [Electrical and Computer Engineering](http://ee.snu.ac.kr/en). 
+Hi, my name is Kyoungmo Koo. I am currently delving into the intricacies of optics, medical robotics, embedded systems, and control as a Master's student at the [University of Michigan](https://umich.edu/), specializing in [Electrical and Computer Engineering](https://ece.engin.umich.edu/). My academic journey began at [Seoul National University](https://en.snu.ac.kr/index.html), where I earned my undergraduate degree in [Electrical and Computer Engineering](http://ee.snu.ac.kr/en). 
 
-Currently, I am an Electrical Engineering Intern on the eHardware Architecture team at [BorgWarner](https://www.borgwarner.com/home). At the same time, I'm applying my expertise as a lab intern at the [Image-Guided Medical Robotics lab](https://medical.robotics.umich.edu/) under the guidance of Professor Mark Draelos. Previously, I've honed my skills in the realm of superconductivity as an intern at the [Applied Superconductivity Lab](http://asl.snu.ac.kr/), led by Professor Seungyong Hahn. 
-My passion lies at the intersection of embedded systems, control, communication protocols, robotics, electrical devices, and power electronics. My current project is focused on crafting a digital interface for a Scannermax galvanometer controller, a pivotal component in Robotically Aligned Optical Coherence Tomography (RAOCT). This endeavor encompasses a spectrum of communication protocols, including the Serial Audio Interface (SAI), Serial Peripheral Interface (SPI), Timer Interface (TIM), and the Universal Asynchronous Receiver-Transmitter (UART) standard.
+Currently, I'm applying my expertise as a lab intern at the [Image-Guided Medical Robotics lab](https://medical.robotics.umich.edu/) under the guidance of Professor Mark Draelos. I am currently working on two projects. 
+First project is developing digital interface to control galvanometer digital and enhance performance of OCT (Optical Coherence Tomography) system, in terms of cost and resolution. Second project is developing a medical robotic system leveraging ultrasound and photoacoustic techniques to scan hands for arthritis detection. 
+This summer, I have done my internship as an Electrical Engineering Intern on the eHardware Architecture team at [BorgWarner](https://www.borgwarner.com/home).
+
+Previously, I've honed my skills in the realm of superconductivity as an intern at the [Applied Superconductivity Lab](http://asl.snu.ac.kr/), led by Professor Seungyong Hahn. 
 
 During my undergraduate tenure, I embarked on research projects in cutting-edge areas such as no-insulation superconductors for power plants, wave energy converters (WEC), and ion propulsion motors.
-Driven by the ambition to enhance global living standards, my ultimate objective is to innovate in the creation of electrical devices that are not only efficient but also conserve time and energy. I'm convinced that advancements in embedded systems and power electronics will be pivotal in shaping the future, making everyday life more sustainable and convenient for communities worldwide.
+Driven by the ambition to enhance global living standards, my ultimate objective is to innovate in the creation of medical and optic devices that are precise and convenient to use, so that patients all around the world can benefit from it. I'm convinced that advancements in optics and embedded systems will be pivotal in shaping the future, making everyday life more sustainable and convenient for communities worldwide.
 
 Developing a digital interface to a ScannerMAX galvanometer controller for optical coherence tomography (OCT)
 ======

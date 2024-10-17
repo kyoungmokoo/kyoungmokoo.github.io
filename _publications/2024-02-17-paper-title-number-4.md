@@ -8,5 +8,4 @@ venue: 'SPIE Photonics West 2025 : Optical Coherence Tomography and Coherence Do
 paperurl: 'http://academicpages.github.io/files/Paper_4.pdf'
 citation: 
 ---
-[Abstract](http://kyoungmokoo.github.io/files/Paper_4.pdf)  
-[SPIE OCT](https://spie.org/photonics-west/presentation/Reducing-cost-but-not-quality-with-digital-scanner-interfaces-for/13305-77#_=_)
+[Abstract](http://kyoungmokoo.github.io/files/Paper_4.pdf)  [SPIE OCT](https://spie.org/photonics-west/presentation/Reducing-cost-but-not-quality-with-digital-scanner-interfaces-for/13305-77#_=_)
