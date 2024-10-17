@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](../files/CV_20240807.pdf) 
-Last updated : 2024.07.11
+[CV](../files/CV_20241017.pdf) 
+Last updated : 2024.10.17
