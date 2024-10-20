@@ -46,7 +46,9 @@
       {% if post.venue == 'SPIE Photonics West 2025 : Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine' %}
       <p>1. (Conference) <b>Kyoungmo Koo</b>, Lucia Lee, Morgan McCloud, and Mark Draelos. "{{post.title}}". Accepted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}, as Oral Presentation. <a href="http://kyoungmokoo.github.io/files/Paper_4.pdf" target="_blank">Abstract</a> 
         <a href="https://spie.org/photonics-west/presentation/Reducing-cost-but-not-quality-with-digital-scanner-interfaces-for/13305-77#_=_" target="_blank">SPIE OCT</a> </p>
-
+      {% elsif post.venue == 'IEEE Transactions on Transportation Electrification' %}
+      <p>2. (Journal) <b>Kyoungmo Koo*</b>, Chaemin Im*, Geonyoung Kim, Jaemin Kim, Seungyong Hahn, and Sangjin Lee. "{{post.title}}". Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. <a href="http://kyoungmokoo.github.io/files/Paper_3.pdf" target="_blank">Abstract</a> 
+        <a href="https://ieeexplore.ieee.org/document/10531034" target="_blank">IEEE TTE</a> </p>
       {% else %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% endif %}
