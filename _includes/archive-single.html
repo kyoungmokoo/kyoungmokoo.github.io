@@ -44,7 +44,7 @@
     <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.collection == 'publications' %}
       {% if post.venue == 'SPIE Photonics West 2025 : Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine' %}
-      <p>Accepted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p><b>Kyoungmo Koo</b>, Lucia Lee, Morgan McCloud, and Mark Draelos. "{{post.title}}". Accepted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>, as Oral Presentation
       {% else %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% endif %}
