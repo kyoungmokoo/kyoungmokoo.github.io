@@ -40,8 +40,6 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %} -->
 
-    <p>Hello Please</p>
-    
     {% if post.collection == 'teaching' %}
     <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.collection == 'publications' %}
@@ -68,6 +66,10 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif}
     {% endif %}
+    {% endif %}
+
+    {% if post.title == 'RAUS : Robot Applied Ultrasound System' %}
+        <p>Hello Please</p>
     {% endif %}
     <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
