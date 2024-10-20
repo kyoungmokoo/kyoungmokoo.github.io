@@ -225,6 +225,17 @@ defaults:
       comments: true
       share: true
       related: true
+    # _posts2
+  - scope:
+      path: ""
+      type: posts2
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
