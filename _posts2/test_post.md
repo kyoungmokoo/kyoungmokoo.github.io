@@ -1,7 +1,7 @@
 ---
 title: 'SNU : Silicon Valley Entrpreneurship Fellow Team'
 date: 2018-07-01
-permalink: /posts2/2012/08/blog-post-1/
+permalink: /posts2/test_post/
 tags:
 ---
 
