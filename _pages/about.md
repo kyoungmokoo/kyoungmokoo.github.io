@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Diagram](/kyoungmokoo.github.io/images/kmkoo_diagram.png)
+![Diagram](../_images/kmkoo_diagram.png)
 
 Welcome! I'm Kyoungmo Koo, a Master’s student at the [University of Michigan](https://umich.edu/) specializing in [Electrical and Computer Engineering](https://ece.engin.umich.edu/). My academic focus spans optics, medical robotics, embedded systems, and control systems. I began my journey at [Seoul National University](https://en.snu.ac.kr/index.html), where I earned my undergraduate degree in [Electrical and Computer Engineering](http://ee.snu.ac.kr/en). 
 
