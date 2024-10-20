@@ -53,7 +53,7 @@
       <p>3. (Manuscript) <b>Kyoungmo Koo</b>, Wonseok Jang, Jeonghwan Park, Jaemyung Cha, and Seungyong Hahn. "{{post.title}}". In <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. <a href="http://kyoungmokoo.github.io/files/Paper_2.pdf" target="_blank">Manuscript</a> 
         <a href="https://arxiv.org/abs/2306.12946" target="_blank">ArXiv</a> </p>
       {% else %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p>4. (Thesis Competition) Wonseok Jang, <b>Kyoungmo Koo</b>, and Jaeseok Bang, Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p> <a href="http://kyoungmokoo.github.io/files/Paper_2.pdf" target="_blank">Thesis</a> 
     {% endif %}
     {% elsif post.date %}
     <!--<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p> -->
