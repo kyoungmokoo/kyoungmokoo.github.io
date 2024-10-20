@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: center;">
-  <img src="../_images/kmkoo_diagram.png" alt="Diagram of Kyoungmo Koo's project" style="width: 400px;">
+  <img src="../images/kmkoo_diagram.png" alt="Diagram of Kyoungmo Koo's project" style="width: 400px;">
 </div>
 
 
