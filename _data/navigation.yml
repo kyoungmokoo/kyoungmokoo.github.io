@@ -5,15 +5,15 @@ main:
 
   - title: "Research"
     url: /year-archive2/  
+  
+  - title: "CV"
+    url: /cv/
 
-  - title: "Experiences"
+  - title: "Work Experiences"
     url: /teaching/   
     
   - title: "Codes"
     url: /portfolio/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Extracurricular"
     url: /year-archive/
