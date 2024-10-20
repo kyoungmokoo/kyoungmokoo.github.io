@@ -6,7 +6,7 @@ excerpt:
 date: 2009-10-01
 venue: 'Korea Hydro Power Industry Association'
 paperurl: 
-citation: 'K.Koo, et al. (2009). &quot;100MW class large-scale green hydrogen production plant construction project through high-temperature superconducting magnet-based large-capacity wave power generation.&quot; <i>Korea Hydro Power Industry Association</i>.'
+citation: 'W.Jang, et al. (2009). &quot;100MW class large-scale green hydrogen production plant construction project through high-temperature superconducting magnet-based large-capacity wave power generation.&quot; <i>Korea Hydro Power Industry Association</i>.'
 ---
 
 [Paper](http://kyoungmokoo.github.io/files/Paper_1.pdf) [KHA](https://www.hydropower.or.kr/)
