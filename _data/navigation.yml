@@ -12,8 +12,8 @@ main:
   - title: "Work Experiences"
     url: /teaching/   
     
-  - title: "Codes"
-    url: /portfolio/
+  # - title: "Codes"
+  #   url: /portfolio/
 
   - title: "Extracurricular"
     url: /year-archive/
