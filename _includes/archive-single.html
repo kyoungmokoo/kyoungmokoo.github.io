@@ -107,6 +107,7 @@
     </div>    
     {% endif %}
 
+    {% if post.collection != "publications" %}
     {% if post.title == 'Conceptual Design and Analysis of No-Insulation High- Temperature Superconductor Tubular Wave Energy Converter' %}
     <div style="text-align: center;">
       <figure style="display: inline-block; width: 320px; margin: 10px; vertical-align: top;">
@@ -118,6 +119,7 @@
         <figcaption style="text-align: center; padding: 5px;">Figure 2: Distribution of magnetic field in the generator.</figcaption>
       </figure>
     </div>    
+    {% endif %}
     {% endif %}
     <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
