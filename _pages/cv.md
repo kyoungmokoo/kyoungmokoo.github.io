@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](../files/CV_20241017.pdf) 
-Last updated : 2024.10.17
+[CV](../files/Kyoungmo_Koo_CV_BME.pdf) 
+Last updated : 2024.11.23
