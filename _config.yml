@@ -21,7 +21,7 @@ repository               : "kyoungmokoo/kyoungmokoo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kmkoo_photo.png"
+  avatar           : "kmkoo_photo_resized.png"
   name             : "Kyoungmo Koo"
   pronouns         : # example: "she/her"  
   bio              : "Be ambitious"
